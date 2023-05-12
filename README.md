@@ -1,0 +1,2 @@
+# kuramoto
+Kuramotmo model implmentation
